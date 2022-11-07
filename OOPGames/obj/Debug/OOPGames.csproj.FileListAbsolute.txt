@@ -1,0 +1,16 @@
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\bin\Debug\OOPGames.exe.config
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\bin\Debug\OOPGames.exe
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\bin\Debug\OOPGames.pdb
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.AssemblyReference.cache
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\MainWindow.g.cs
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\App.g.cs
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames_MarkupCompile.cache
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames_MarkupCompile.lref
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\MainWindow.baml
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.g.resources
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.Properties.Resources.resources
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.GenerateResource.cache
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.csproj.CoreCompileInputs.cache
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.exe
+C:\Users\bigle\OneDrive\Desktop\Hochschule\Programmieren\3.Semester\Tortoise\Tortoise Repository\Programmieren3WS20222023\OOPGames\OOPGames\obj\Debug\OOPGames.pdb
